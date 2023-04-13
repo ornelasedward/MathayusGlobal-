@@ -43,7 +43,7 @@ export default function Footer() {
           </a>
         </div>
         <p className="text-center justify-center text-xs mt-20 text-gray-300">
-          designed and developed by{" "}
+          designed and developed by
           <span>
             <a href="https://mired.io/" className="font-bold">
               Mired
